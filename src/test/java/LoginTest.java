@@ -4,5 +4,11 @@ public class LoginTest {
     @Test
     public void loginTest(){
 
+
+    }
+
+    public void passwordTest(){
+
+
     }
 }
